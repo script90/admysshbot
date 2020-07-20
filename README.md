@@ -1,0 +1,2 @@
+# admysshbot
+bot ssh
